@@ -18,4 +18,4 @@ public class Vehicle {
 
     @Column(nullable = false)
     private BigDecimal vehiclePrice;
-}::q
+}
