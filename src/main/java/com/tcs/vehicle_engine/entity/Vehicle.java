@@ -1,4 +1,4 @@
-package com.tcs.vehicle_engine.model;
+package com.tcs.vehicle_engine.entity;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.Id;
@@ -18,4 +18,4 @@ public class Vehicle {
 
     @Column(nullable = false)
     private BigDecimal vehiclePrice;
-}
+}::q
